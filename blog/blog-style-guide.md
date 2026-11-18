@@ -46,10 +46,13 @@ Agreed with the owner on 30 Oct 2026 while publishing week 1. Apply all of this 
 - The /blog/ featured card crops images with `object-fit: cover` to a box whose shape changes with the title length. A fixed `aspect-ratio: 16 / 10` on `.pcard-media` would stop the cropping.
 
 ## Publishing without a password (from week 3, 18 Nov 2026)
-Claude can't type passwords into login pages. What worked for week 3: the owner signs in to amatchless.com/wp-admin in the Claude desktop app's built-in browser; Claude saves the graphics to the owner's Downloads folder and the owner drags them into Media → Add New (the browser can't upload files); Claude then does everything else (alt text, post, Yoast meta, publish) through the REST API from that signed-in browser tab, using the `rest-nonce` from admin-ajax.
+Claude can't type passwords into login pages. What worked for week 3: the owner signs in to amatchless.com/wp-admin in the Claude desktop app's built-in browser; the owner downloads the graphics (now from the repo's week folder) and drags them into Media → Add New (the browser can't upload files); Claude then does everything else (alt text, post, Yoast meta, publish) through the REST API from that signed-in browser tab, using the `rest-nonce` from admin-ajax.
 
 ## Scheduled runs (from 18 Nov 2026)
 - **Last day of each month, ~10:23 IST:** build the next month's calendar in `calendars/` (same format as `content-calendar-2026-11-12.md`), one post per Friday, topics from `topic-backlog.md` and `research/`.
 - **Thursday ~14:37 IST:** write the coming Friday's post from the calendar, make a unique cover image (no shared template layout; see `templates/graphics/README.md`) and 4 to 6 in-post graphics, upload it all as a WordPress draft.
 - **Friday ~10:17 IST:** final checks, publish, check the live page, update calendar and backlog status.
 - Unattended publishing uses a WordPress Application Password for the Author account, read from the environment variables `WP_USER` and `WP_APP_PASSWORD` (HTTP Basic auth to `https://amatchless.com/wp-json/wp/v2/`, media upload via `POST /wp/v2/media`). Until those exist, fall back to the signed-in-browser method above and ask the owner to sign in.
+
+## Where files live (from 18 Nov 2026)
+The GitHub repo **amatchless/blogs** (branch `main`) is the home for everything: calendars, backlog, posts, graphics, templates, research. Pull before starting, commit and push to `main` at the end of every run. Don't save work to the owner's laptop. If the owner has to upload images by hand (no Application Password yet), point them to the `images/` folder of that week in the repo.
