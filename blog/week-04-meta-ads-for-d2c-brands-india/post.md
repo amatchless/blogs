@@ -291,6 +291,8 @@ Nothing in that list is a trick. It's break-even maths, clean tracking and a ste
 | Agency | ₹1 lakh+ a month, need creative, tracking and media together | Long lock-ins, fees tied only to spend, reporting only Meta ROAS |
 | In-house team | Large, steady spend across several channels | Hiring and keeping a media buyer and a creative team |
 
+**What Meta ads agencies in India charge.** Most charge either a flat monthly fee or a share of your ad spend. Published 2026 rates run from about ₹8,000 to ₹60,000+ a month for flat fees, or 10% to 20% of monthly ad spend, and percentage deals often have a minimum of ₹25,000 to ₹50,000 a month. Fees are billed on top of what you pay Meta, usually plus GST. At Amatchless, Meta ads management is **15% of your monthly ad budget or ₹5,000, whichever is higher**, so a ₹1 lakh monthly budget means a ₹15,000 fee.
+
 Questions to ask any Meta ads agency in India before you sign:
 
 - **Will the ad account, pixel and data stay in our name?** (They should.)
@@ -335,6 +337,9 @@ Only if you know your repeat-purchase numbers. If a typical customer buys again 
 **Should I hire a Meta ads agency in India?**
 Usually once you spend about ₹1 lakh a month or more, or when you don't have time to make and test new creative every week. Make sure the ad account stays in your name, and ask for reporting on blended MER, not just Ads Manager ROAS.
 
+**How much does a Meta ads agency charge in India?**
+Published 2026 rates run from about ₹8,000 to ₹60,000+ a month as a flat fee, or 10% to 20% of monthly ad spend, often with a minimum of ₹25,000 to ₹50,000. Amatchless charges 15% of your monthly ad budget or ₹5,000, whichever is higher.
+
 <a id="sources"></a>
 ## Sources and credits
 
@@ -346,6 +351,9 @@ Usually once you spend about ₹1 lakh a month or more, or when you don't have t
 6. Meta for Developers, "Conversions API: Best practices". https://developers.facebook.com/documentation/ads-commerce/conversions-api/best-practices
 7. Triple Whale, "What's a good ROAS?" (median Meta ROAS across its e-commerce brands). https://www.triplewhale.com/blog/whats-a-good-roas
 8. Amatchless, "Bailey's Blossoms case study: 4x return on Meta ads". https://amatchless.com/work/baileys-blossoms/
+9. VoidMatrix Technology, "How much does Meta Ads management cost in India?" (flat-fee and percentage ranges), September 2026. https://www.voidmatrixtech.com/blog/how-much-does-meta-ads-management-cost-in-india
+10. Social Ninja's, "Meta ads agency pricing in India (2026)" (retainer, percentage and minimum-fee models), September 2026. https://socialninjas.in/blog/meta-ads-agency-pricing-india-2026/
+11. iBACT Digital, "Meta ads management India" (published fee plans, 10% of spend with ₹24,999 minimum), updated October 2026. https://ibact.digital/meta-ads-management/
 
 Cost ranges are agency and vendor estimates, not Meta price lists; your account will differ by category and season. We thank upGrowth, Superads and Triple Whale for publishing their data, and iMark Infotech, Sociolabs and Balistro, whose India D2C posts shaped the questions this guide answers. Meta, Facebook, Instagram, WhatsApp, Shopify and other names belong to their owners and are mentioned as examples only. Amatchless has no affiliate relationship with them.
 
