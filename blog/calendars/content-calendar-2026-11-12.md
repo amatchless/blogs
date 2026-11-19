@@ -1,5 +1,7 @@
 # Amatchless blog content calendar: November and December 2026
 
+> **Weeks 5 to 9 replaced on 19 Nov 2026.** The owner adopted their own strategy sheet in sheet order: see [content-calendar-2026-11-27-strategy-sheet.md](content-calendar-2026-11-27-strategy-sheet.md). Week 4 (Meta Ads, Fri 20 Nov) is the last post from this calendar. The week 5 to 9 briefs below are kept only as backlog ideas, not scheduled.
+
 Prepared 10 Nov 2026. One post a week, published on the Friday of each week (changed from Tuesday on 18 Nov 2026). Goal: organic traffic to amatchless.com that turns into discovery calls. Built from the competitor research in `research/` and `blog/competitor-blog-review.md`, plus a fresh check of what ranks on Google today for each target keyword (10 Nov 2026, notes below each post).
 
 **About the keywords.** No free tool gives India search volumes, so none are quoted here. Before writing each post, paste its primary and secondary keywords into Google Keyword Planner (location: India) and swap a secondary in or out if it has no volume. Search Console will show which terms each post starts to appear for after 3 to 6 weeks.
@@ -14,11 +16,11 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 | 2 | 11 Nov | Influencer Marketing Cost in India (2026 Rates & Guide) | influencer marketing cost in india | Commercial investigation | Influencer Marketing | **Live** |
 | 3 | 18 Nov | How to Get More Google Reviews in India (and Rank Higher on Google Maps) | how to get more google reviews | Informational (local) | SEO: local/maps | **Live** |
 | 4 | Fri 20 Nov | Meta Ads for D2C Brands in India: Budgets, Break-even ROAS and What 4x Looks Like | meta ads for d2c brands india | Commercial investigation | Digital Marketing & Ads | Planned |
-| 5 | Fri 27 Nov | How to Show Up in ChatGPT and Google AI Overviews: A GEO Guide for Indian Businesses | how to rank in chatgpt | Informational | SEO incl. AEO/GEO | Planned |
-| 6 | Fri 4 Dec | Website Development Cost in India 2026: Business Site, E-commerce and Booking Systems | website development cost in india | Commercial investigation | Custom Software & Web | Planned |
-| 7 | Fri 11 Dec | Digital Marketing Trends 2027: What Indian Small Businesses Should Do Next Year | digital marketing trends 2027 india | Informational (seasonal) | All services, Business Discovery & Strategy | Planned |
-| 8 | Fri 18 Dec | WhatsApp Automation for Small Business in India: 7 Flows That Win Customers | whatsapp automation for business | Informational + commercial | Process Automation | Planned |
-| 9 | Fri 25 Dec | Marketing Budget for Small Business in India: How Much to Spend in 2027 (Free Planner) | marketing budget for small business india | Informational (planning) | Business Discovery & Strategy, Ads, SEO | Planned |
+| (5) | not scheduled | How to Show Up in ChatGPT and Google AI Overviews: A GEO Guide for Indian Businesses | how to rank in chatgpt | Informational | SEO incl. AEO/GEO | Replaced (backlog) |
+| (6) | not scheduled | Website Development Cost in India 2026: Business Site, E-commerce and Booking Systems | website development cost in india | Commercial investigation | Custom Software & Web | Replaced (backlog) |
+| (7) | not scheduled | Digital Marketing Trends 2027: What Indian Small Businesses Should Do Next Year | digital marketing trends 2027 india | Informational (seasonal) | All services, Business Discovery & Strategy | Replaced (backlog) |
+| (8) | not scheduled | WhatsApp Automation for Small Business in India: 7 Flows That Win Customers | whatsapp automation for business | Informational + commercial | Process Automation | Replaced (backlog) |
+| (9) | not scheduled | Marketing Budget for Small Business in India: How Much to Spend in 2027 (Free Planner) | marketing budget for small business india | Informational (planning) | Business Discovery & Strategy, Ads, SEO | Replaced (backlog) |
 
 **Why this order.** Week 3 is the easiest win (weakest SERP) and builds the local-SEO cluster. Week 4 lands as brands plan December sale and wedding-season ad spend. Weeks 5 and 6 are the SEO and web pillars, which currently have no service page to rank. Weeks 7 and 9 are timed for year-end searches: "trends 2027" content needs to be indexed before the January spike, and budget planning peaks in the last week of December and first week of January. Week 8 extends week 1 into a topic cluster.
 
@@ -50,7 +52,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 - **Angle / must include:** minimum test budgets in rupees, CPM/CPC ranges with 18% GST, break-even ROAS calculator table by gross margin, reported ROAS vs blended MER, Conversions API, creative testing plan, when to hire an agency, 4x case study walkthrough.
 - **Internal links:** /services/, /work/baileys-blossoms/, /first-profitable-ad/, week 2 (influencer + ads).
 
-## Week 5 · Fri 27 Nov · Showing up in ChatGPT and AI Overviews
+## Old week 5 (REPLACED, not scheduled) · Showing up in ChatGPT and AI Overviews
 
 - **Working title:** How to Show Up in ChatGPT and Google AI Overviews: A GEO Guide for Indian Businesses
 - **Slug:** `/how-to-rank-in-chatgpt/`
@@ -62,7 +64,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 - **Angle / must include:** how AI answers choose sources, SEO vs AEO vs GEO in one table, a 10-point checklist (entity, schema, FAQ, reviews, citations, original data), how to test your brand in ChatGPT/Gemini/Perplexity, how to track it monthly.
 - **Internal links:** /services/, /work/aleuco/, week 3 (reviews as a GEO signal).
 
-## Week 6 · Fri 4 Dec · Website cost in India
+## Old week 6 (REPLACED, not scheduled) · Website cost in India
 
 - **Working title:** Website Development Cost in India 2026: Business Site, E-commerce and Booking Systems
 - **Slug:** `/website-development-cost-in-india/`
@@ -75,7 +77,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 - **Internal links:** /services/, /work/haliburton-forest/, /work/isola/, week 1.
 - **Please confirm before writing:** the price ranges Amatchless quotes for each build type.
 
-## Week 7 · Fri 11 Dec · Trends for 2027
+## Old week 7 (REPLACED, not scheduled) · Trends for 2027
 
 - **Working title:** Digital Marketing Trends 2027: What Indian Small Businesses Should Do Next Year
 - **Slug:** `/digital-marketing-trends-2027-india/`
@@ -88,7 +90,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 - **Internal links:** weeks 1, 2, 4, 5, /services/.
 - **Refresh:** update in December 2027 as "trends 2028".
 
-## Week 8 · Fri 18 Dec · WhatsApp automation flows
+## Old week 8 (REPLACED, not scheduled) · WhatsApp automation flows
 
 - **Working title:** WhatsApp Automation for Small Business in India: 7 Flows That Win Customers
 - **Slug:** `/whatsapp-automation-for-business/`
@@ -100,7 +102,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 - **Angle / must include:** 7 flows (lead capture, abandoned cart, order updates, appointment reminders, review request, re-order nudges, FAQ bot), each with trigger, message and expected outcome; app vs API table; cost table (BSP fee + Meta per-message rates, check Meta's current India rate card); opt-in and template rules.
 - **Internal links:** /ai-automation/, week 1, week 3 (review-request flow).
 
-## Week 9 · Fri 25 Dec · Marketing budget for 2027
+## Old week 9 (REPLACED, not scheduled) · Marketing budget for 2027
 
 - **Working title:** Marketing Budget for Small Business in India: How Much to Spend in 2027 (Free Planner)
 - **Slug:** `/marketing-budget-for-small-business-india/`
