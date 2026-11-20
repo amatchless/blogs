@@ -37,7 +37,7 @@ Adopted 19 Nov 2026. The owner made a new SEO / AEO / GEO / LLMO content strateg
 | 14 | 26 Feb 2027 | Website Design and Development Process: 7 Steps, Timelines and Deliverables From Brief to Launch | website design and development | 4400 | 2400 | `/website-design-and-development-process/` | Planned |
 | 15 | 5 Mar 2027 | Content Marketing in Delhi: A Practical Playbook for Local B2B and D2C Brands | content marketing in delhi | 100 | 1600 | `/content-marketing-delhi-playbook/` | Planned |
 
-Already live: AI automation for small business India (`/ai-automation-small-business-india/`), influencer marketing cost India (`/influencer-marketing-cost-in-india/`), Google reviews (`/how-to-get-more-google-reviews/`). Fri 20 Nov: Meta Ads for D2C (`/meta-ads-for-d2c-brands-india/`, from the old calendar).
+Already live: AI automation for small business India (`/ai-automation-small-business-india/`), influencer marketing cost India (`/influencer-marketing-cost-in-india/`), Google reviews (`/how-to-get-more-google-reviews/`). Meta Ads for D2C (`/meta-ads-for-d2c-brands-india/`, from the old calendar), live 20 Nov 2026.
 
 ---
 

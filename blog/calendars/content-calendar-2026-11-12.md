@@ -15,7 +15,7 @@ Prepared 10 Nov 2026. One post a week, published on the Friday of each week (cha
 | 1 | Published | AI Automation for Small Businesses in India (2026) | ai automation for small business india | Informational + commercial | AI Solutions, Process Automation | **Live** |
 | 2 | 11 Nov | Influencer Marketing Cost in India (2026 Rates & Guide) | influencer marketing cost in india | Commercial investigation | Influencer Marketing | **Live** |
 | 3 | 18 Nov | How to Get More Google Reviews in India (and Rank Higher on Google Maps) | how to get more google reviews | Informational (local) | SEO: local/maps | **Live** |
-| 4 | Fri 20 Nov | Meta Ads for D2C Brands in India: Budgets, Break-even ROAS and What 4x Looks Like | meta ads for d2c brands india | Commercial investigation | Digital Marketing & Ads | Draft ready (19 Nov) |
+| 4 | Fri 20 Nov | Meta Ads for D2C Brands in India: Budgets, Break-even ROAS and What 4x Looks Like | meta ads for d2c brands india | Commercial investigation | Digital Marketing & Ads | Live (20 Nov) |
 | (5) | not scheduled | How to Show Up in ChatGPT and Google AI Overviews: A GEO Guide for Indian Businesses | how to rank in chatgpt | Informational | SEO incl. AEO/GEO | Replaced (backlog) |
 | (6) | not scheduled | Website Development Cost in India 2026: Business Site, E-commerce and Booking Systems | website development cost in india | Commercial investigation | Custom Software & Web | Replaced (backlog) |
 | (7) | not scheduled | Digital Marketing Trends 2027: What Indian Small Businesses Should Do Next Year | digital marketing trends 2027 india | Informational (seasonal) | All services, Business Discovery & Strategy | Replaced (backlog) |

@@ -177,7 +177,7 @@ The lesson: **creator content is the raw material, and ads and retention are whe
 
 **Step 6: Track every creator separately.** Give each one a unique discount code and a UTM link. If you sell on WhatsApp, a separate click-to-chat link per creator works well. You can even automate the replies; we explain how in our guide to [AI automation for small businesses in India](https://amatchless.com/ai-automation-small-business-india/).
 
-**Step 7: Boost the winners.** After 3 to 5 days, look at which videos have the best watch time, saves and clicks. Run those as partnership ads. Pause the rest.
+**Step 7: Boost the winners.** After 3 to 5 days, look at which videos have the best watch time, saves and clicks. Run those as partnership ads. Pause the rest. Before you scale them, work out your break-even ROAS; our guide to [Meta ads for D2C brands in India](https://amatchless.com/meta-ads-for-d2c-brands-india/) shows how.
 
 **Step 8: Report and rebook.** Compare each creator's cost with the orders their code and link brought in. Rebook the top 20% on a longer deal and drop the rest.
 
