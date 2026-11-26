@@ -55,3 +55,4 @@ Website development
 
 ## Used so far
 - Week 4, Meta Ads for D2C (Fri 20 Nov 2026): fee paragraph in section 11 and a FAQ, added to the WordPress draft (post 105) on 19 Nov 2026.
+- Week 5, SEO packages in Delhi (Fri 27 Nov 2026): Amatchless SEO from ₹25,000 a month; market tiers re-checked 26 Nov 2026 against ZestRank (updated 21 Nov 2026: ₹10k-20k / ₹20k-50k / ₹50k-1L+, excl. GST), Beyond DigitA and Battersea Web Expert.

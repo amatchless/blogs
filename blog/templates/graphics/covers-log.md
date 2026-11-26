@@ -10,13 +10,14 @@ Fixed for every cover (brand and crop rules): 1600x1000 JPG, brand palette and f
 | 2 | Influencer marketing cost in India (new cover 18 Nov) | Pink | Pill + question headline, then a row of tilted cards | Creator tier price cards (Nano to Celeb), hearts |
 | 3 | How to get more Google reviews | Purple with a street-map pattern | Headline on top, a big product mock in the middle | Google Maps search result list ("near me") with star ratings, map pins |
 | 4 | Meta ads for D2C brands India | Mint with diagonal stripes | Centred question headline, then a tilted object left with two stacked sticker cards right | A till receipt (ad spend, GST, sales, ROAS 4.0x), rupee coins at the edges |
+| 5 | SEO packages in Delhi (pricing guide) | Off-white with a thick purple frame and inner ink border | Pill + centred question headline, then a curved string across with three hanging items, logo pill at the bottom centre | Three swing price tags (Entry / Growth / Advanced with ₹ ranges), magnifying glass and sparkles at the edges |
 
 ## Ideas not used yet
 
 - Giant number or rupee figure as the hero (cost and budget posts).
 - Split layout: "before" vs "after" cards (comparison posts). (Mint background used in week 4.)
 - A big phone or laptop mock with the topic's real UI (ads, ChatGPT, website posts).
-- **White background with a thick coloured frame**, one oversized icon or sticker cluster (trends and planning posts).
+- White background with a thick coloured frame (used in week 5 with price tags), one oversized icon or sticker cluster (trends and planning posts).
 - **Photo-style collage** of cut-out cards (case-study-led posts).
 - A calendar or checklist object as the hero (planning posts).
 
