@@ -76,10 +76,10 @@ def tag_id(name):
         print('could not create tag', name); return None
 tags = [t for t in (tag_id(n) for n in ['India', 'Delhi', 'SEO', 'SEO pricing', 'Local SEO']) if t]
 
-desc = ('SEO packages in Delhi explained: 2026 prices for entry, growth and advanced tiers, how agencies charge, cheap SEO red flags and a checklist to compare quotes.')
+desc = ('SEO packages in Delhi explained: 2026 prices for entry, growth and advanced tiers, how agencies charge, cheap SEO red flags and how to compare quotes.')
 post = {
     'title': 'SEO Packages in Delhi: What Each Price Tier Includes and What to Ask Before You Pay',
-    'slug': 'seo-packages-delhi-pricing-guide', 'status': 'draft', 'content': content, 'excerpt': desc,
+    'slug': 'seo-packages-delhi-pricing-guide', 'status': 'publish', 'content': content, 'excerpt': desc,
     'categories': [6], 'tags': tags, 'featured_media': media[COVER]['id'],
     'meta': {'_yoast_wpseo_title': 'SEO Packages in Delhi: Prices, Tiers & What to Ask (2026)',
              '_yoast_wpseo_metadesc': desc, '_yoast_wpseo_focuskw': 'seo packages in delhi'},

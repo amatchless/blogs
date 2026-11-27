@@ -14,7 +14,8 @@ From 27 Nov 2026 the owner's strategy sheet runs in sheet order (adopted 19 Nov 
 | 2 | 10 to 11 Nov | **Live** | Influencer Marketing Cost in India (2026 Rates & Guide) | influencer marketing cost in india |
 | 3 | 18 Nov | **Live** | How to Get More Google Reviews in India (and Rank Higher on Google Maps) | how to get more google reviews |
 | 4 | Fri 20 Nov | Live (20 Nov) | Meta Ads for D2C Brands in India: Budgets, Break-even ROAS and What 4x Looks Like | meta ads for d2c brands india |
-| 5 to 19 | Fri 27 Nov to Fri 5 Mar | Planned | Strategy sheet posts 1 to 15, in sheet order | see the calendar |
+| 5 | Fri 27 Nov | Live (27 Nov) | SEO Packages in Delhi: What Each Price Tier Includes and What to Ask Before You Pay | seo packages in delhi |
+| 6 to 19 | Fri 4 Dec to Fri 5 Mar | Planned | Strategy sheet posts 2 to 15, in sheet order | see the calendar |
 
 ## Unscheduled backlog (pick from here for January 2027 onwards)
 

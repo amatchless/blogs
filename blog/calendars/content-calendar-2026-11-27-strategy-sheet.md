@@ -21,7 +21,7 @@ Adopted 19 Nov 2026. The owner made a new SEO / AEO / GEO / LLMO content strateg
 
 | # | Publish (Fri) | Title | Primary keyword | Volume | Words | Slug | Status |
 |---|---|---|---|---|---|---|---|
-| 1 | 27 Nov 2026 | SEO Packages in Delhi: What Each Price Tier Includes and What to Ask Before You Pay | seo packages in delhi | 1000 | 2200 | `/seo-packages-delhi-pricing-guide/` | Draft (26 Nov) |
+| 1 | 27 Nov 2026 | SEO Packages in Delhi: What Each Price Tier Includes and What to Ask Before You Pay | seo packages in delhi | 1000 | 2200 | `/seo-packages-delhi-pricing-guide/` | Live (27 Nov) |
 | 2 | 4 Dec 2026 | SEO Consultant vs SEO Agency in Delhi NCR: Which Is Right for Your Business Stage? | seo consultant in delhi | 1000 | 1800 | `/seo-consultant-vs-seo-agency-delhi-ncr/` | Planned |
 | 3 | 11 Dec 2026 | Local SEO in Delhi: How to Rank in Google Maps and 'Near Me' Searches (Step-by-Step) | local seo in delhi | 100 | 2000 | `/local-seo-delhi-google-maps-guide/` | Planned |
 | 4 | 18 Dec 2026 | Expert SEO Services: What a Professional SEO Retainer Should Include in 2026 (Rankings and AI Answers) | expert seo services | 1000 | 2400 | `/expert-seo-services-what-to-expect/` | Planned |

@@ -276,7 +276,7 @@ Compare your review count, average rating and Google Business Profile **Performa
 <a id="how-amatchless-helps"></a>
 ## How Amatchless helps
 
-We run [local SEO and Google Business Profile management](https://amatchless.com/services/) as part of a full growth plan: setting up and tidying the profile, choosing categories, making NAP consistent across directories, building a review-request system that fits how you already bill or book, and replying to reviews in your voice. Because we also build automations and websites, the review request can go out by itself after every visit, and your site can turn the extra Maps clicks into enquiries.
+We run [local SEO and Google Business Profile management](https://amatchless.com/services/) as part of a full growth plan: setting up and tidying the profile, choosing categories, making NAP consistent across directories, building a review-request system that fits how you already bill or book, and replying to reviews in your voice. Because we also build automations and websites, the review request can go out by itself after every visit, and your site can turn the extra Maps clicks into enquiries. If you are comparing quotes, our guide to [SEO packages in Delhi](https://amatchless.com/seo-packages-delhi-pricing-guide/) shows what each price tier should include.
 
 For [AleuCo](https://amatchless.com/work/aleuco/), a luxury mobile hair and makeup studio with no high-street salon, people searching "near me" on Google, on Maps and in AI assistants rarely found them. We sharpened the brand, fixed the local and map listings, and built the content and structured information that search engines and AI tools read when deciding who to recommend.
 
