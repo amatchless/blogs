@@ -24,6 +24,7 @@ Agreed with the owner on 30 Oct 2026 while publishing week 1. Apply all of this 
 - Slug = primary keyword. One category (existing: Automation, AI, Branding, Paid Ads, SEO, Content Marketing, Insights, Company News). Tags as relevant.
 - Excerpt = meta description (the /blog/ card shows it).
 - British/Indian English spelling. Rupee prices for India.
+- **Company phone / WhatsApp** (from 28 Nov 2026): 9266736111, written +91 92667 36111; WhatsApp links use `https://wa.me/919266736111`. The old numbers 85869 29882 and 90508 20042 must not appear anywhere.
 
 ## Images (required, no text-only posts)
 - Make images in the brand style with the kit in `templates/graphics/` (see its README). Brand: ink #0E0B1F, purple #5B2EFF, pink #FF4F9A, yellow #FFE14D, mint #3DEBB0, bg #FBFAFF; Bricolage Grotesque headings, DM Sans body; thick ink borders, rounded corners, hard offset shadow, a tilted purple/pink highlight on a key word; small amatchless logo on each graphic.

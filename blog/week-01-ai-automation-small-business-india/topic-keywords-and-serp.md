@@ -64,7 +64,7 @@ Internal (all confirmed live in the sitemap or site crawl):
 - https://amatchless.com/work/isola/
 - https://amatchless.com/marketing-tasks-to-automate/
 - https://amatchless.com/first-profitable-ad/
-- WhatsApp link wa.me/919050820042
+- WhatsApp link wa.me/919266736111
 
 External: 11 cited sources listed at the end of the post (IBEF, LinkedIn/YouGov via IANS, PayNearby via Angel One, McKinsey, Meta x2, ChatMaxima, eCorpIT, Nexolve, S.S. Rana, Tribune India).
 
